@@ -34,4 +34,4 @@ Strategic progression focused on achieving deep technical mastery across the Red
 ---
 
 ### 🔗 Professional Verification
-[HTB Profile](https://profile.hackthebox.com/profile/019d98e2-b6d9-72ff-aa08-112670b49117) • [THM Profile](https://tryhackme.com/p/LurkSec)
+[HTB Profile](https://profile.hackthebox.com/profile/019db2aa-30ad-70eb-a269-855a5d51d855) • [THM Profile](https://tryhackme.com/p/LurkSec)
